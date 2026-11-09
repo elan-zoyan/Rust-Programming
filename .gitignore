@@ -1,0 +1,23 @@
+# Compiled Rust binaries
+/main
+
+# Cargo build directory
+/target/
+
+# Rust backup files
+*.rs.bk
+
+# IDE
+.idea/
+.vscode/
+
+# Environment secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
